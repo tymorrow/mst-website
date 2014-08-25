@@ -13,7 +13,7 @@
       <title>Ty Morrow</title>
       <link href="" rel="shortcut icon" type="image/x-icon">
       <!-- Bootstrap core CSS -->
-      <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css" rel="stylesheet">
+      <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/paper/bootstrap.min.css" rel="stylesheet">
       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
       <link href="/css/styles.css" rel="stylesheet">
@@ -35,7 +35,14 @@
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                 <li><a href="/blog">Blog</a></li>
-                <li><a href="/work">Work</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Work <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/research/">Research</a></li>
+                    <li><a href="/marsrover/" target="_blank">Mars Rover</a></li>
+                    <li><a href="/sphinx/">Sphinx</a></li>
+                  </ul>
+                </li>
                 <li><a href="/about">About</a></li>
             </ul>
 
@@ -50,21 +57,48 @@
 
     <div class="container">
   <div class="row">
-    <div class="col-xs-12">
-      <div class="page-header">
-        <h1>Things are moving slowly, standby...</h1>
+    <div class="col-sm-3">
+  		<img src="img/Me.png" alt="Profile Picture" class="img-rounded img-responsive">
+      <h3>Ty Morrow</h3>
+      <h5>PhD Student in Computer Science <small>Missouri S&amp;T</small></h5>
+
+      <hr/>
+    </div>
+    <div class="col-sm-5">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <i class="fa fa-comment-o fa-2x"></i>&nbsp; Recent Blog Posts
+        </div>
+        <div class="panel-body">
+          <div class="list-group">
+
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="row">
     <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <i class="fa fa-code fa-2x"></i>&nbsp; Work
+        </div>
+        <div class="list-group">
+          <a class="list-group-item" href="/research/">Research</a>
+          <a class="list-group-item" href="/marsrover/">Mars Rover</a>
+          <a class="list-group-item" href="/sphinx/">Sphinx</a>
+        </div>
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <i class="fa fa-envelope-o fa-inverse fa-2x"></i>&nbsp; Contact
+        </div>
+        <table class="table">
 
-    </div>
-    <div class="col-sm-4">
-
-    </div>
-    <div class="col-sm-4">
-
+            <tr>
+              <td>Email</td>
+              <td><a href="mailto:tjm6f4@mst.edu" target="_blank">tjm6f4@mst.edu</a></td>
+            </tr>
+        </table>
+      </div>
     </div>
   </div>
 </div>

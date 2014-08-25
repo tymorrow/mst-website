@@ -3,14 +3,13 @@ html {
   min-height: 100% !important;
 }
 body {
-  margin-top:75px;
+  margin-top:90px;
   margin-bottom: 60px;
 }
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  /* Set the fixed height of the footer here */
   height: 60px;
 	padding: 10px;
 	color: #98978b;
