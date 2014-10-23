@@ -7,34 +7,7 @@ title: Ty Morrow
   <div class="row">
     <div class="col-sm-3">
   		<img src="img/Me.png" alt="Profile Picture" class="img-rounded img-responsive">
-      <h3>Ty Morrow</h3>
-      <h5>PhD Student in Computer Science <small>Missouri S&amp;T</small></h5>
-
       <hr/>
-    </div>
-    <div class="col-sm-5">
-      <div class="panel panel-primary">
-        <div class="panel-heading">
-          <i class="fa fa-comment-o fa-2x"></i>&nbsp; Recent Blog Posts
-        </div>
-        <div class="panel-body">
-          <div class="list-group">
-
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="panel panel-primary">
-        <div class="panel-heading">
-          <i class="fa fa-code fa-2x"></i>&nbsp; Work
-        </div>
-        <div class="list-group">
-          <a class="list-group-item" href="{{}}/research/">Research</a>
-          <a class="list-group-item" href="{{}}/marsrover/">Mars Rover</a>
-          <a class="list-group-item" href="{{}}/sphinx/">Sphinx</a>
-        </div>
-      </div>
       <div class="panel panel-primary">
         <div class="panel-heading">
           <i class="fa fa-envelope-o fa-inverse fa-2x"></i>&nbsp; Contact
@@ -46,6 +19,21 @@ title: Ty Morrow
               <td><a href="mailto:tjm6f4@mst.edu" target="_blank">tjm6f4@mst.edu</a></td>
             </tr>
         </table>
+      </div>
+    </div>
+    <div class="col-sm-5">
+      {% markdown about.md %}
+    </div>
+    <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <i class="fa fa-comment-o fa-2x"></i>&nbsp; Recent Blog Posts
+        </div>
+        <div class="panel-body">
+          <div class="list-group">
+
+          </div>
+        </div>
       </div>
     </div>
   </div>
