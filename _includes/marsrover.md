@@ -10,7 +10,7 @@ I joined in April 2013 and I was immediately put in charge of making an applicat
 Today, myself and other team leads have managed to centralize all software development for the team on [Github][4].  Most of our work is either Open Source or will be after competition, and that includes RED.  My role on the team has evolved into leading a team of people responsible for maintaining and improving RED.  Most of the new members to the team are unfamiliar with WPF so lately I've been putting work into a training program called [Launch Pad][5].  Launch Pad assumes they have prior experience with programming but it serves as a way to give new members experience with Visual Studio, Git/Github, WPF, and the Model-View-ViewModel (MVVM) design pattern by walking them through a simple software development cycle.
 
 #### Publication
-T. Morrow, K. Kosbar: *A Modular and Extensible User Interface for the Telemtry and Control of a Remotely Operated Vehicle*. The International Telemetering Conference (2014) in San Diego, CA.  **First Place Award for  Undergraduate Student Papers**.
+T. Morrow, K. Kosbar: *A Modular and Extensible User Interface for the Telemetry and Control of a Remotely Operated Vehicle*. The International Telemetering Conference (2014) in San Diego, CA.  **First Place Award for  Undergraduate Student Papers**.
 
   - [Download Paper][6]
   - [Conference Presentation Slides][7]
