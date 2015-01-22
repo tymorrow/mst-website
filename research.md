@@ -10,7 +10,7 @@ I am in my second semester as a PhD student under [Professor Ali Hurson][1] and 
 I am researching the application of prediction algorithms to modular course structures in order to improve learning outcomes in education.  This work is a continuation of prior research on [ontology-based recommendation algorithms][5] and [proactive search techniques][6].
 
 #### Publications in Preparation
-  - (In Progress) Tyler Morrow, "A Context-Aware Ontology for Personalized Learning: Pervasive Computing for Educational Technology", PhD Forum, Percom 2015
+  - (In Progress) Tyler Morrow, "A Context-Aware Ontology for Personalized Learning: Pervasive Computing for Educational Technology", PhD Forum, PerCom 2015
   - (In Progress) Tyler Morrow, A. Hurson, S. Sedigh, "PERCEPOLIS: Cyberinfrastructure for Personalized Education." Handbook of Applied Learning Theory and Design in Modern Education, IGI Global, 2015.
 
 
