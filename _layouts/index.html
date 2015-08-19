@@ -12,52 +12,62 @@
 
       <title>{{ page.title }}</title>
       <link href="" rel="shortcut icon" type="image/x-icon">
-      <link href="{{site.url}}/css/bootstrap.min.css" rel="stylesheet">
-      <link href="{{site.url}}/css/font-awesome.min.css" rel="stylesheet">
-      <link href="{{site.url}}/css/styles.css" rel="stylesheet">
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
   </head>
-  <body data-spy="scroll" data-target="#navbar">
+  <body style="margin-top:75px;font-family: 'Open Sans', sans-serif;">
     {% include nav.html %}
     <div class="container">
       <div class="row">
-        <div class="col-sm-3">
-          <img src="img/Me.png" alt="Profile Picture" class="img-rounded img-responsive">
+        <div class="col-xs-12">
+          <div class="media">
+            <div class="pull-left media-object">
+              <img src="img/Me.png" height="150" alt="Profile Picture" class="img-circle">
+            </div>
+            <div class="media-body" style="padding-left:15px">
+              <h1 class="media-heading">Ty Morrow</h1>
+              <h5>PhD Student in Computer Science</h5>
+              <h5>Missouri University of Science &amp; Technology</h5>
+              <h5>
+                <i class="fa fa-envelope-o"></i>
+                <a href="mailto:tyler.morrow@mst.edu" target="_blank">tyler.morrow@mst.edu</a>
+              </h5>
+            </div>
+          </div>
           <hr/>
-          <div class="panel panel-primary">
-            <div class="panel-heading">
-              <i class="fa fa-envelope-o fa-inverse fa-lg"></i>&nbsp; Contact
-            </div>
-            <table class="table">
-              <tbody>
-                <tr>
-                  <td>Email</td>
-                  <td><a href="mailto:tjm6f4@mst.edu" target="_blank">tjm6f4@mst.edu</a></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
         </div>
-        <div class="col-sm-5 well">
-          {{ content }}
+      </div>
+      <div class="row">
+        <div class="col-sm-4 text-center">
+          <a href="{{}}/teaching/" style="text-decoration: none">
+            <div class="panel panel-default">
+              <h4>CS 1580</h4>
+              <i class="fa fa-laptop" style="font-size: 10em"></i>
+              <h6>Click to go to course page</h6>
+            </div>
+          </a>
         </div>
-        <div class="col-sm-4">
-          <div class="panel panel-primary">
-            <div class="panel-heading">
-              <i class="fa fa-pencil-square-o fa-lg"></i>&nbsp; Resume
+        <div class="col-sm-4 text-center">
+          <a href="{{}}/publications/" style="text-decoration: none">
+            <div class="panel panel-default">
+              <h4>Publications</h4>
+              <i class="fa fa-university" style="font-size: 10em"></i>
+              <h6>Click to go to publications page</h6>
             </div>
-            <div class="list-group">
-                <a href="{{site.baseurl}}/docs/Resume - Summer 2014.pdf" class="list-group-item">
-                  <h4 class="list-group-item-heading">
-                    Summer 2014
-                  </h4>
-                  <p class="list-group-item-text">This is a one-page resume of my work experience during from my time as an undergraduate.  I'm rewriting my CV in Latex and it will feature more graduate-related items.  It will post here once it is completed.</p>
-              </a>
+          </a>
+        </div>
+        <div class="col-sm-4 text-center">
+          <a href="{{}}/about/" style="text-decoration: none">
+            <div class="panel panel-default">
+              <h4>About</h4>
+              <i class="fa fa-user" style="font-size: 10em"></i>
+              <h6>Click to go to about page</h6>
             </div>
-          </div>
+          </a>
         </div>
       </div>
     </div>
     {% include footer.html %}
 </body>
-
 </html>

@@ -1,6 +1,6 @@
 ---
-layout: index
-title: Ty Morrow
+layout: page
+title: Research
 ---
 
 ## Publications
