@@ -1,32 +1,17 @@
 <!DOCTYPE html>
-  <html lang="en">
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="Ty Morrow">
-
-    <title>{{ page.title }}</title>
-    <link href="" rel="shortcut icon" type="image/x-icon">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    {% include header.html %}
   </head>
   <body style="margin-top:75px;font-family: 'Open Sans', sans-serif;">
     {% include nav.html %}
     <div class="container">
-      <div class"row">
+      <div class="row">
         <div class="col-xs-12">
           {{ content }}
         </div>
       </div>
     </div>
-
     {% include footer.html %}
-</body>
-
+  </body>
 </html>

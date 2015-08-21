@@ -5,6 +5,8 @@ title: About Ty
 
 ## About Me
 
+---
+
 As an undergraduate at Missouri S&T, I joined [Delta Sigma Phi][3] fraternity and the [Mars Rover Design Team][4] while also working for the Computer Science and Residential Life departments.
 I completed my Computer Science B.S. in 2014 at [Missouri S&T][1].
 
