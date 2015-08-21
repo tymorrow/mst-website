@@ -19,7 +19,7 @@ Since 2009 I've worked for a law firm (IT), an electric cooperative (software de
 The best way is to shoot me an email: <tyler.morrow@mst.edu>
 
 [1]: http://www.mst.edu/
-[2]: {{}}/research/
+[2]: {{site.baseurl}}/research/
 [3]: https://www.deltasig-de.org/
 [4]: http://marsrover.mst.edu/
-[5]: {{}}/docs/Tyler Morrow - CV.pdf
+[5]: {{site.baseurl}}/docs/Tyler Morrow - CV.pdf

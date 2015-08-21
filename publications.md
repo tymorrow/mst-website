@@ -25,5 +25,5 @@ I am researching the application of prediction algorithms to sequences, such as 
 [3]: http://web.mst.edu/~sendecomp/
 [5]: http://link.springer.com/chapter/10.1007/978-3-642-32597-7_10#page-1
 [6]: https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=101725&item_no=1&page_id=13&block_id=8
-[7]: /docs/Tyler Morrow - ITC 2014 - RED Paper.pdf
-[8]: /docs/Tyler Morrow - ITC 2014 - RED Presentation.pdf
+[7]: {{site.baseurl}}/docs/Tyler Morrow - ITC 2014 - RED Paper.pdf
+[8]: {{site.baseurl}}/docs/Tyler Morrow - ITC 2014 - RED Presentation.pdf

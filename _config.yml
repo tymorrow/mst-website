@@ -1,11 +1,14 @@
 # Site settings
-title: Ty Morrow
-email: tjm6f4@mst.edu
+title: Tyler Morrow
+email: tyler.morrow@mst.edu
 description: ""
-baseurl: ""
+baseurl: "/~tjm6f4"
 encoding: UTF-8
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 highlighter: pygments
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
