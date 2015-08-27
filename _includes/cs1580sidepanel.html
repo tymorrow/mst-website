@@ -28,31 +28,12 @@
     <a href="{{}}" class="list-group-item disabled">....</a>
   </div>
 </div>
-<h3>Instructor</h3>
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Tyler Morrow</strong><br>
-    <i class="fa fa-fw fa-envelope"></i>
-    <small><a href="mailto:tyler.morrow@mst.edu">tyler.morrow@mst.edu</a></small><br>
-    <i class="fa fa-fw fa-map-marker"></i> <small>208 Computer Science</small>
-  </div>
-</div>
-<h3>Links</h3>
-<div class="panel panel-default">
-  <div class="list-group">
-    <a href="https://sites.google.com/a/mst.edu/price/courses/cs-1570" target="_blank" class="list-group-item">
-      CS 1570 <i class="pull-right fa fa-external-link"></i>
-    </a>
-    <a href="http://classes.mst.edu/compsci1570/" target="_blank" class="list-group-item">
-      C++ Online Course/Docs <i class="pull-right fa fa-external-link"></i>
-    </a>
-  </div>
-</div>
+
 <h3>Unix Commands</h3>
 <div class="panel panel-default">
   <ul class="list-group">
     <li class="list-group-item">
-      <small>Output Current Directory</small>
+      <small>Print Working Directory</small>
       <code class="pull-right"><small>pwd</small></code>
     </li>
     <li class="list-group-item">
@@ -60,7 +41,19 @@
       <code class="pull-right"><small>ls</small></code>
     </li>
     <li class="list-group-item">
-      <small>Go to Sub-directory</small>
+      <small>Clear Console</small>
+      <code class="pull-right"><small>clear</small></code>
+    </li>
+    <li class="list-group-item">
+      <small>Go to previous command</small>
+      <small class="pull-right"><i class="fa fa-long-arrow-up"></i> Key</small>
+    </li>
+    <li class="list-group-item">
+      <small>Autocomplete</small>
+      <small class="pull-right"><strong>TAB</strong> Key</small>
+    </li>
+    <li class="list-group-item">
+      <small>Go into Sub-directory<sup>[1]</sup></small>
       <code class="pull-right"><small>cd "name"</small></code>
     </li>
     <li class="list-group-item">
@@ -68,23 +61,28 @@
       <code class="pull-right"><small>cd ..</small></code>
     </li>
     <li class="list-group-item">
+      <small>Go up 2 Directories</small>
+      <code class="pull-right"><small>cd ../..</small></code>
+    </li>
+    <li class="list-group-item">
       <small>Go to Home Directory</small>
       <code class="pull-right"><small>cd ~</small></code>
     </li>
     <li class="list-group-item">
-      <small>Create Directory</small>
+      <small>Create Directory<sup>[1]</sup></small>
       <code class="pull-right"><small>mkdir "name"</small></code>
     </li>
     <li class="list-group-item">
-      <small>Delete Directory*</small>
+      <small>Delete Directory<sup>[1]</sup><sup>[2]</sup></small>
       <code class="pull-right"><small>rmdir "name"</small></code>
     </li>
     <li class="list-group-item">
-      <small>Delete File*</small>
+      <small>Delete File<sup>[1]</sup><sup>[2]</sup></small>
       <code class="pull-right"><small>rm "name"</small></code>
     </li>
     <li class="list-group-item list-group-item-warning">
-      <small>* Deletions are irreversible</small>
+      <small><sup>[1]</sup> Quotes can be ommitted when not using spaces</small> <br>
+      <small><sup>[2]</sup> Deletions are irreversible</small>
     </li>
     <a class="list-group-item" href="http://it.mst.edu/services/linux/unix-linux-commands/"
        target="_blank">
@@ -121,4 +119,26 @@
       <code class="pull-right"><small>CTRL+=</small></code>
     </li>
   </ul>
+</div>
+
+<h3>Instructor</h3>
+<div class="panel panel-default">
+  <div class="panel-body">
+    <strong>Tyler Morrow</strong><br>
+    <i class="fa fa-fw fa-envelope"></i>
+    <small><a href="mailto:tyler.morrow@mst.edu">tyler.morrow@mst.edu</a></small><br>
+    <i class="fa fa-fw fa-map-marker"></i> <small>208 Computer Science</small>
+  </div>
+</div>
+
+<h3>Helpful Links</h3>
+<div class="panel panel-default">
+  <div class="list-group">
+    <a href="https://sites.google.com/a/mst.edu/price/courses/cs-1570" target="_blank" class="list-group-item">
+      CS 1570 <i class="pull-right fa fa-external-link"></i>
+    </a>
+    <a href="http://classes.mst.edu/compsci1570/" target="_blank" class="list-group-item">
+      C++ Online Course/Docs <i class="pull-right fa fa-external-link"></i>
+    </a>
+  </div>
 </div>
