@@ -3,10 +3,10 @@ layout: cs1580lab
 title: Lab 1
 ---
 
-## Lab 1
+## Lab 1 <small>First Program</small>
 ---
 
-#### 1. PuTTY
+#### <span class="badge">1</span> PuTTY
 1. Open PuTTY and double-click any of the saved sessions entitled *CS213 Linux ##* where the ## is any number from 1 to 16
 [<i class="fa fa-external-link"></i>](http://it.mst.edu/services/linux/hostnames/).
   - If there are no saved sessions, enter *"rc##xcs213.managed.mst.edu"* (change the ## to a number 1-16) into the host name field, then click *Open*.
@@ -15,7 +15,7 @@ title: Lab 1
 
 ---
 
-#### 2. Managing Directories
+#### <span class="badge">2</span> Managing Directories
 1. Navigate into the *SDRIVE* directory (also known as a folder) using the `cd` command.
   - This is the same as navigating files and folders via Explorer in Windows, but instead of double-clicking to go into a directory, you're typing a command.
   - When you first connect with PuTTY, you're in the "~" (tilda) directory, also known as the *Home* directory.
@@ -32,7 +32,7 @@ title: Lab 1
 
 ---
 
-#### 3. "Hello, World!"
+#### <span class="badge">3</span> "Hello, World!"
 
 {% highlight c linenos %}
 #include <iostream>
@@ -60,9 +60,12 @@ int main()
 
 ---
 
-#### 4. Submission
+#### <span class="badge">4</span> Submission
 1. Submit your program using the **appropriate** command based on your section:
   - Section B (12pm): `cssubmit 1580 B 1`
   - Section D (6pm): `cssubmit 1580 D 1`
+2. Note: the commands above are based on the following format:  
+    `cssubmit <course #> <section letter> <lab #>`
+3. Done
 
-Note: the commands above are based on the following format: `cssubmit <course #> <section letter> <lab #>`
+---
