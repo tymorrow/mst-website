@@ -66,6 +66,7 @@ int main()
   - Section D (6pm): `cssubmit 1580 D 1`
 2. Note: the commands above are based on the following format:  
     `cssubmit <course #> <section letter> <lab #>`
-3. Done
 
 ---
+
+#### <span class="badge"><i class="fa fa-check"></i></span> Done

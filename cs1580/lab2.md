@@ -47,7 +47,7 @@ A major difference between the two is that a compiler warning does not prevent t
 ---
 
 #### Story Time
-So Professor Price is getting overwhelmed.  He used to teach math and some local high school students found out about this.  So now, on top of teaching C++ this semester, doing a ton of advising, and taking vitamins, these local students are taking their math homework to him for help.  He does his best to be accommodating but he is finding it a little hard to manage.  It's even worse because his cows are calling him on his cell phone wondering why [he does not take them for romantic walks anymore]({{site.baseurl}}/img/clayton1.jpg).  He decided to try and write a simple program for these students that would help them speed up their calculations.  Unfortunately, his hands tripped while trying to send a text message and he had to type the code much like [an animal playing the drums]({{site.baseurl}}/img/drummer.gif).  As a result, his code is a disaster, but fortunately for everyone, he has you to fix it.
+Professor Price is getting overwhelmed.  He used to teach math and some local high school students found out about this.  So now, on top of teaching C++ this semester, doing a ton of advising, and taking vitamins, these local students are taking their math homework to him for help.  He does his best to be accommodating but he is finding it a little hard to manage.  It's even worse because his cows are calling him on his cell phone wondering why [he does not take them for romantic walks anymore]({{site.baseurl}}/img/clayton1.jpg).  He decided to try and write a simple program for these students that would help them speed up their calculations.  Unfortunately, he had one minute of free time in which to do it, so he had to [type the code quickly]({{site.baseurl}}/img/drummer.gif).  As a result, his code is a disaster, but fortunately for everyone, he has you to fix it.
 
 ---
 
@@ -84,7 +84,7 @@ cout << "Area of Triangle Calculation" <<
 "Enter the value for the height: ";
 cin >> h;
 cout <<
-"Enter the value for the height: "; cin >> anotherVar
+"Enter for other value?: "; cin >> anotherVar
 cout << endl << "The area of the triangle is: " << anotherVar*anotherVar << endl;
 return 0}
 {% endhighlight %}
@@ -108,3 +108,20 @@ These are the steps you are advised to follow, **in order**, for correcting the 
   - Rewrite the code as needed to make it adhere to the specifications
 
 ---
+
+#### <span class="badge">3</span> Submission
+**Make sure you are in the `~/SDRIVE/cs1580/lab2` directory before doing the following.**
+
+1. Once the program compiles and works properly, submit using the **appropriate** command based on your section:
+  - Section B (12pm): `cssubmit 1580 B 2`
+  - Section D (6pm): `cssubmit 1580 D 2`
+  - Note: the commands above are based on the following format:  
+      `cssubmit <course #> <section letter> <lab #>`
+2. When prompted for inputs, enter:
+  - `9` for the radius of the circle
+  - `1.2` for the height of the triangle
+  - `1.5` for the base of the triangle
+
+---
+
+#### <span class="badge"><i class="fa fa-check"></i></span> Done
