@@ -7,6 +7,12 @@ title: Lab 3
 
 ---
 
+<a href="{{site.baseurl}}/cs1580/lab3solution.cpp"
+   class="btn btn-info pull-right">
+  <i class="fa fa-exclamation-circle"></i>
+  Lab 3 Solution
+</a>
+
 #### <span class="badge">1</span> Set up your workspace
 
 1. Connect to a linux machine with PuTTY
