@@ -7,7 +7,7 @@ title: Lab 4
 
 ---
 
-<a href="{{site.baseurl}}/cs1580/lab4solution.cpp"
+<a href="{{site.baseurl}}/cs1580/solutions/lab4solution.cpp"
    class="btn btn-info pull-right">
   <i class="fa fa-exclamation-circle"></i>
   Lab 4 Solution

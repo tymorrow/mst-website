@@ -7,7 +7,7 @@ title: Lab 3
 
 ---
 
-<a href="{{site.baseurl}}/cs1580/lab3solution.cpp"
+<a href="{{site.baseurl}}/cs1580/solutions/lab3solution.cpp"
    class="btn btn-info pull-right">
   <i class="fa fa-exclamation-circle"></i>
   Lab 3 Solution
