@@ -3,9 +3,15 @@ layout: cs1580lab
 title: Lab 7
 ---
 
-## Lab 7 <small>Menu + Functions</small>
+## Lab 7 <small>Menu, Functions, Separate Files</small>
 
 ---
+
+<a href="{{site.baseurl}}/cs1580/solutions/lab7solution.zip"
+class="btn btn-info pull-right">
+  <i class="fa fa-exclamation-circle"></i>
+  Lab 7 Solution
+</a>
 
 #### <span class="badge">1</span> Set up your workspace
 
