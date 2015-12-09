@@ -16,7 +16,7 @@ I am now an MS student in Computer Science in the same place.
 Since 2009 I've worked for a law firm (IT), an electric cooperative (software development), and a multinational steel manufacturer (software development).  You can download my CV [here][5].
 
 ## Contact Me
-The best way is to shoot me an email: <tyler.morrow@mst.edu>
+The best way is to shoot me an email: <{{site.email}}>
 
 [1]: http://www.mst.edu/
 [2]: {{site.baseurl}}/publications/

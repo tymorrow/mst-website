@@ -7,7 +7,7 @@ title: Lab 5
 
 ---
 
-<a href="{{site.baseurl}}/cs1580/solutions/lab5solution.cpp"
+<a href="{{site.baseurl}}/cs1580/solutions/lab05solution.cpp"
    class="btn btn-info pull-right">
   <i class="fa fa-exclamation-circle"></i>
   Lab 5 Solution
@@ -60,7 +60,7 @@ The prices above should be made constants.
 Once the user has selected all of their sandwiches, the program will apply a tax by multiplying `totalPrice` by `1.078`.
 The tax rate should also be a constant.
 
-<a href="{{site.baseurl}}/cs1580/lab5-flowchart.png" class="btn btn-warning" target="_blank">
+<a href="{{site.baseurl}}/cs1580/images/lab05-flowchart.png" class="btn btn-warning" target="_blank">
   <i class="fa fa-arrows-h"></i> FLOW CHART
 </a>
 

@@ -7,7 +7,7 @@ title: Lab 7
 
 ---
 
-<a href="{{site.baseurl}}/cs1580/solutions/lab7solution.zip"
+<a href="{{site.baseurl}}/cs1580/solutions/lab07solution.zip"
 class="btn btn-info pull-right">
   <i class="fa fa-exclamation-circle"></i>
   Lab 7 Solution
