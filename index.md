@@ -1,4 +1,4 @@
 ---
 layout: index
-title: Ty Morrow
+title: Tyler Morrow
 ---
