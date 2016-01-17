@@ -12,3 +12,6 @@ highlighter: pygments
 
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
+
+exclude:
+  - s3_website.yml
