@@ -22,4 +22,4 @@ The best way is to shoot me an email: <{{site.email}}>
 [2]: {{site.baseurl}}/publications/
 [3]: https://www.deltasig-de.org/
 [4]: http://marsrover.mst.edu/
-[5]: {{site.baseurl}}/docs/Tyler Morrow - CV.pdf
+[5]: {{site.baseurl}}/docs/tylermorrowcv.pdf
