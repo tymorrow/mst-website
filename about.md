@@ -7,13 +7,21 @@ title: About Ty
 
 ---
 
-As an undergraduate at Missouri S&T, I joined [Delta Sigma Phi][3] fraternity and the [Mars Rover Design Team][4] while also working for the Computer Science and Residential Life departments.
-I completed my Computer Science B.S. in 2014 at [Missouri S&T][1].
+I am currently an MS student in Computer Science at Missouri S&amp;T.
+I completed my Computer Science B.S. in 2014 from the same place.
 
-I am now an MS student in Computer Science in the same place.
-[My research][2] is currently focused on the development and application of prediction algorithms to sequences.  
+[My research][2] is currently focused on the development and application of prediction algorithms to educational sequences.
 
-Since 2009 I've worked for a law firm (IT), an electric cooperative (software development), and a multinational steel manufacturer (software development).  You can download my CV [here][5].
+As an undergraduate at Missouri S&amp;T, I was involved in the following organizations:
+
+- [Delta Sigma Phi Fraternity][3]
+- [Mars Rover Design Team][4]
+- Residential Life
+- Learning Enhancement Across Disciplines (LEAD)
+
+Since 2009 I've worked as a programmer, researcher, and teacher.
+
+You can download my CV [here][5].
 
 ## Contact Me
 The best way is to shoot me an email: <{{site.email}}>
