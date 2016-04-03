@@ -2,7 +2,7 @@
 title: Tyler Morrow
 email: tmorrow@mst.edu
 description: ""
-baseurl: ""
+baseurl: "/~tjm6f4"
 encoding: UTF-8
 
 # Build settings
@@ -15,3 +15,5 @@ kramdown:
 
 exclude:
   - s3_website.yml
+  - GEMFILE
+  - Gemfile.lock

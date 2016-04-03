@@ -8,7 +8,8 @@ title: About Ty
 ---
 
 I am currently an MS student in Computer Science at Missouri S&amp;T.
-I completed my Computer Science B.S. in 2014 from the same place.
+
+I completed my Computer Science B.S. in 2014 at the same place.
 
 [My research][2] is currently focused on the development and application of prediction algorithms to educational sequences.
 
