@@ -15,12 +15,12 @@ I am researching the application of prediction algorithms to sequences, such as 
   - Tyler Morrow, Sahra Sedigh Sarvestani and Ali R. Hurson. "Pervasive Cyberinfrastructure for Personalized Education." Handbook of Research on Applied Learning Theory and Design in Modern Education. IGI Global, 2016. 817-839. 24 Mar. 2016.
   - Tyler Morrow. "A context-aware ontology for personalized learning: Pervasive computing for educational technology." Pervasive Computing and Communication Workshops (PerCom Workshops), 2015 IEEE International Conference on. IEEE, 2015.
 
-#### Mars Rover  
+#### Mars Rover
   - T. Morrow, K. Kosbar. "A Modular and Extensible User Interface for the Telemetry and Control of a Remotely Operated Vehicle." *The International Telemetering Conference (2014)* in San Diego, CA.  First Place Award for Undergraduate Student Papers.
     - [Conference Paper][7]
     - [Conference Presentation Slides][8]
 
-[1]: https://sites.google.com/a/mst.edu/hurson/
+[1]: http://hurson.weebly.com/
 [2]: http://web.mst.edu/~sedighs/
 [3]: http://web.mst.edu/~sendecomp/
 [5]: http://link.springer.com/chapter/10.1007/978-3-642-32597-7_10#page-1
